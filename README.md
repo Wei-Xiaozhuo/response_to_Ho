@@ -1,6 +1,6 @@
 # Comment on “Upper-mantle earthquakes beneath East Antarctica”
 
-## XiaoZhuo Wei
+### XiaoZhuo Wei
 ### Department of Earth and Planetary Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX 78712, USA
 ### Email: xiaozhuo.wei@jsg.utexas.edu
 
