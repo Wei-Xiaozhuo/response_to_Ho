@@ -32,17 +32,23 @@ Based on all the above analyses, I do not think that Ho et al. provided sufficie
 
 **Figure 1: Earthquake depth distribution with respect to minimum arrival time pick distance range.** (A) The earthquake depths plotted against their minimum arrival time pick distances. (B) The earthquake depth distribution where the minimum arrival time pick distance is between 0 and 50 km. (C) The same as panel (B), but the minimum arrival time pick distance is between 50 and 100 km. (D) The same as panel (B), but the minimum arrival time pick distance is between 100 and 160 km. (E) The same as panel (B), but the minimum arrival time pick distance is between 160 and 200 km.
 
+<br>
+
 <p align="center">
   <img src="figures/figure2.png" alt="Figure 2" width="800"><br>
 </p>
 
 **Figure 2: Temporal distribution of earthquake depths with respect to minimum station distance from the David Glacier.** (A) During 2001-2003. (B) During 2012-2015.
 
+<br>
+
 <p align="center">
   <img src="figures/figure3.png" alt="Figure 3" width="700"><br>
 </p>
 
 **Figure 3: Earthquake depths located with and without the near source stations.** The near source stations are defined as stations within 100 km of the earthquakes.
+
+<br>
 
 <p align="center">
   <img src="figures/figure4.png" alt="Figure 4" width="700"><br>
