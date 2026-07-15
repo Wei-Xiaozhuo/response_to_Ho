@@ -1,6 +1,8 @@
 # Comment on “Upper-mantle earthquakes beneath East Antarctica”
 
 ## XiaoZhuo Wei
+### Department of Earth and Planetary Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX 78712, USA
+### Email: xiaozhuo.wei@jsg.utexas.edu
 
 Ho et al. (1) used a machine learning picker to build a new earthquake catalog in East Antarctica and detected a substantial number of intermediate-depth earthquakes (IDEs) beneath the David Glacier (48% of the total 1068 earthquakes). They used the probability density functions from the earthquake location package NonLinLoc to assess their location errors and concluded that the IDE depths are reliable, with uncertainties of less than 20 km. However, after examining their catalog, I found that the occurrence of IDEs shows an correlation with the distance to the nearest seismic station. The occurrence of IDEs is also highly temporally variable. I also reanalyzed their catalog by removing the arrival time picks within a 100 km range of the epicenter and found drastic changes in the earthquake depths. Finally, I manually picked the phase arrivals from a new station STAR relatively close to the David Glacier, which belongs to the Polar Seismic Italian Network (network code: DY) and was not used by their study. The addition of the new phase picks once again caused a large number of the IDEs to be located as shallow earthquakes. All the above results indicate the earthquake depth errors are significantly underestimated in Ho et al. and the IDEs are very likely to be icequakes that occurred within or at the base of the David Glacier (2–4), but mislocated to much deeper depths.
 
