@@ -20,5 +20,5 @@ Based on all the above analyses, I do not think that Ho et al. provided sufficie
 
 <p align="center">
   <img src="figures/figure1.png" alt="Figure 1" width="700"><br>
-  <em>Figure 1: Earthquake depth distribution with respect to minimum arrival time pick distance range. (A) The earthquake depths plotted against their minimum arrival time pick distances. (B) The earthquake depth distribution where the minimum arrival time pick distance is between 0 and 50 km. (C) The same as panel (B), but the minimum arrival time pick distance is between 50 and 100 km. (D) The same as panel (B), but the minimum arrival time pick distance is between 100 and 160 km. (E) The same as panel (B), but the minimum arrival time pick distance is between 160 and 200 km.</em>
 </p>
+*Figure 1:* Earthquake depth distribution with respect to minimum arrival time pick distance range. (A) The earthquake depths plotted against their minimum arrival time pick distances. (B) The earthquake depth distribution where the minimum arrival time pick distance is between 0 and 50 km. (C) The same as panel (B), but the minimum arrival time pick distance is between 50 and 100 km. (D) The same as panel (B), but the minimum arrival time pick distance is between 100 and 160 km. (E) The same as panel (B), but the minimum arrival time pick distance is between 160 and 200 km.
