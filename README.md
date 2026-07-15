@@ -18,13 +18,13 @@ It is also worth noting that when Ho et al. used the equal differential-time lik
 
 Based on all the above analyses, I do not think that Ho et al. provided sufficient evidence that IDEs occurred beneath the David Glacier. I suspect that their reported IDEs are icequakes that occurred near the surface but were mislocated at much greater depths.
 
-<br><br>
+<br>
 
 Funding: XZ. W. is supported by the EPS Excellence Postdoctoral Fellowship, at the Department of Earth and Planetary Sciences, Jackson School of Geosciences, University of Texas at Austin.
 
 Data, code and materials availability: The seismic data used in this study are publicly available from European Integrated Data Archive (https://eida.ingv.it/en/getdata), under the network code DY.
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="figures/figure1.png" alt="Figure 1" width="800"><br>
