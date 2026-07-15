@@ -38,7 +38,7 @@ Figure 3: Earthquake depths located with and without the near source stations. T
 </p>
 Figure 4: Location and waveforms of station STAR, and earthquake depths located with and without the station. (A) The location of the new station STAR with respect to the earthquake locations reported by Ho et al. and the seismic stations used in their study. (B) The waveforms of two earthquakes reported by Ho et al. recorded on the new station STAR, filtered between 1 and 10 Hz, along with the manually picked P- and S-wave arrival times. The predicted arrival times from the locations in Ho et al. and in this study are also plotted. (C) The earthquake depths with and without the new station STAR.
 
-<br>
+<br><br>
 
 **References:**
 1. L. M. Ho, J. L. Sánchez-Roldán, S. E. Hansen, J. I. Walter, Upper-mantle earthquakes beneath East Antarctica. Science 392 (6801), 942–945 (2026).
