@@ -54,7 +54,7 @@ Based on all the above analyses, I do not think that Ho et al. provided sufficie
   <img src="figures/figure4.png" alt="Figure 4" width="700"><br>
 </p>
 
-**Figure 4: Location and waveforms of station STAR, and earthquake depths located with and without the station.** (A) The location of the new station STAR with respect to the earthquake locations reported by Ho et al. and the seismic stations used in their study. (B) The waveforms of two earthquakes reported by Ho et al. recorded on the new station STAR, filtered between 1 and 10 Hz, along with the manually picked P- and S-wave arrival times. The predicted arrival times from the locations in Ho et al. and in this study are also plotted. (C) The earthquake depths with and without the new station STAR.
+**Figure 4: Location and waveforms of station STAR, and earthquake depths located with and without the station.** (A) The location of the new station STAR with respect to the earthquake locations reported by Ho et al. and the seismic stations used in their study. (B) The waveforms of a shallow earthquake and a IDE reported by Ho et al. recorded on the new station STAR, filtered between 1 and 10 Hz, along with the manually picked P- and S-wave arrival times. The predicted arrival times from the locations in Ho et al. and in this study are also plotted. (C) The earthquake depths with and without the new station STAR.
 
 <br><br>
 
