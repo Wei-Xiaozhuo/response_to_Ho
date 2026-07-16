@@ -22,7 +22,7 @@ Based on all the above analyses, I do not think that Ho et al. provided sufficie
 
 **Funding:** XZ. W. is supported by the EPS Excellence Postdoctoral Fellowship, at the Department of Earth and Planetary Sciences, Jackson School of Geosciences, University of Texas at Austin.
 
-**Data, code and materials availability:** The seismic data used in this study are publicly available from European Integrated Data Archive (https://eida.ingv.it/en/getdata), under the network code DY. The manually picked arrival times, earthquake location results, and figures are publicly available at https://github.com/Wei-Xiaozhuo/response_to_Ho and archived at https://10.5281/zenodo.21389892.
+**Data, code and materials availability:** The seismic data used in this study are publicly available from European Integrated Data Archive (https://eida.ingv.it/en/getdata), under the network code DY. The manually picked arrival times, earthquake location results, and figures are publicly available at https://github.com/Wei-Xiaozhuo/response_to_Ho and archived at https://doi.org/10.5281/zenodo.21389892.
 
 <br>
 
